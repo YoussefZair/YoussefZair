@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Youssef+Zair;I'm+26+years+old;I+from+Morocco;I+am+a+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![I am Full-Stack Developer]()
+![I am Full-Stack Developer](https://media.licdn.com/dms/image/v2/D4E16AQFALdDy_53J8A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735562389643?e=1756339200&v=beta&t=RSinszdV9gWysS1TvMOEFIj07TbfDjB4DXI8PaoJJZ0)
 
 ###
 
